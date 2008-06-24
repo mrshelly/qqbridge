@@ -1,0 +1,10 @@
+提出:shelly
+QQ群 与 google group 间的交互
+
+阶段:
+A  QQ群消息分析 登陆期间, 初始化一份 group 报告至群消息窗口. 
+    Group 最新10 Tips
+
+B 登陆期间, Group 有新事件,及时通知到QQ群.
+
+
