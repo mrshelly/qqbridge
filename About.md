@@ -1,0 +1,8 @@
+# Introduction #
+
+本项目初衷旨在解决 QQ 群与 Google Group 间的信息交互(虽然QQ群空间也有类似)
+拟:
+MiniQQ 做 QQ协议
+Python 做 QQ消息分析, Google Group 信息交互
+
+# Details #
